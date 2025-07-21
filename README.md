@@ -26,11 +26,11 @@
 
 
 
-<h3 align="center">🏹 I try to combine data science techniques with business understanding to solve real-world problems.</h3>
+<h3 align="center">🏹 Combine Engineering with business understanding to solve real-world problems.</h3>
 
 <div align="center">
   <p>
-    ⭐ Currently learning <strong>Data science</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
+    ⭐ Currently learning <strong>Engineering</strong> &nbsp;&nbsp;|&nbsp;&nbsp;
     📝 Regularly write articles on <a href="https://medium.com/@amarthyasreechand" target="_blank">Medium</a>
   </p>
   <p>
