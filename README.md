@@ -14,9 +14,9 @@ My main tech stack right now is :
 - Clientside : React, Tailwind
 - Test : Jest , Supertest (Api tests), Testcontainers
 
-My finished projects are - [draw-code](https://github.com/ramarthyasc/draw-code) &[superflow](https://github.com/ramarthyasc/superflow)
+My finished projects are - [draw-code](https://github.com/ramarthyasc/draw-code) & [superflow](https://github.com/ramarthyasc/superflow)
 
-- { "current_status" : "trying to deploy draw-code app" }
+💻 { "current_status" : "trying to deploy draw-code app" }
 
 Fun facts:
 
