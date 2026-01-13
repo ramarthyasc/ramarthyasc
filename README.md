@@ -8,7 +8,6 @@ I'm Amarthya, a fullstack engineer based in India.
 I build products that i think are useful for me, or that i think would be cool to build.
 
 My main tech stack right now is :
-
 - Languages: Typescript, Javascript, Bash, SQL (Database)
 - Backend : Express (Node), Postgresql, Docker (Deployment containerization), Git
 - Clientside : React, Tailwind
@@ -19,6 +18,5 @@ My finished projects are - [draw-code](https://github.com/ramarthyasc/draw-code)
 💻 { "current_status" : "trying to deploy draw-code app" }
 
 Fun facts:
-
 - loves building, strength training
 - uses nvim btw :)
