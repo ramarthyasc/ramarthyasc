@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hey there 🫴
 
 <!--
 **ramarthyasc/ramarthyasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+I'm Amarthya, a fullstack engineer based in India.
+
+I build products that i think is useful for me, or that i think would be cool.
+
+My main tech stack right now is :
+
+- Languages: Typescript, Javascript, Bash, SQL (Database)
+- Backend : Express (Node), Postgresql, Docker (Deployment containerization), Git
+- Clientside : React, Tailwind
+- Test : Jest , Supertest (Api tests), Testcontainers
+
+My finished projects are - [draw-code](https://github.com/ramarthyasc/draw-code) &[superflow](https://github.com/ramarthyasc/superflow)
+
+- { "current_status" : "trying to deploy draw-code app" }
+
+Fun facts:
+
+- loves building, strength training
+- uses nvim btw :)
