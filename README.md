@@ -19,5 +19,5 @@ My finished projects are - [draw-code](https://github.com/ramarthyasc/draw-code)
 💻 { "current_status" : "trying to deploy draw-code app" }
 
 Fun facts:
-- does building things, strength training
+- does build things, strength trains
 - uses nvim btw :)
