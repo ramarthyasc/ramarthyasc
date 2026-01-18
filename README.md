@@ -16,7 +16,7 @@ My main tech stack right now is :
 
 My finished projects are - [draw-code](https://github.com/ramarthyasc/draw-code) & [superflow](https://github.com/ramarthyasc/superflow)
 
-💻 { "current_status" : "trying to deploy draw-code app" }
+💻 { "current_status" : "building something" }
 
 Fun facts:
 - builds things, trains strength
