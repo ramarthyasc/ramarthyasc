@@ -13,6 +13,7 @@ My main tech stack right now is :
 - Clientside : React, Tailwind
 - Test : Jest , Supertest (Api tests), Testcontainers
 - Dev : Git, Linux
+- VPS Self Hosting: Reverse proxy (Caddy)
 
 My finished projects are - [draw-code](https://github.com/ramarthyasc/draw-code) & [superflow](https://github.com/ramarthyasc/superflow)
 
