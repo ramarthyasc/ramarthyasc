@@ -9,7 +9,7 @@ I build products that i think are useful for me, or that i think would be cool t
 
 My main tech stack right now is :
 - Languages: Typescript, Javascript, Bash, SQL (Database)
-- Backend : Express (Node), Postgresql
+- Backend : Express (Node), Postgresql, MongoDB
 - Clientside : React, Tailwind
 - Test : Jest , Supertest (Api tests), Testcontainers
 - Dev : Git, Linux
