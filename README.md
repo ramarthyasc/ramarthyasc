@@ -3,7 +3,7 @@
 <!--
 **ramarthyasc/ramarthyasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm Amarthya, a fullstack engineer based in India.
+I'm Amarthya, a fullstack engineer (backend focus) based in India.
 
 I build products that i think are useful for me, or that i think would be cool to build.
 
