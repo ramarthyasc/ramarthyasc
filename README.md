@@ -9,11 +9,11 @@ I build products that i think are useful for me, or that i think would be cool t
 
 My main tech stack right now is :
 - Languages: Typescript, Javascript, Bash, SQL (Database)
-- Backend : Express (Node), Postgresql, MongoDB
+- Backend : Express (Node), Postgresql, MongoDB, Supabase
 - Clientside : React, Tailwind
 - Test : Jest , Supertest (Api tests), Testcontainers
 - Dev : Git, Linux
-- Production: Docker (containers), VPS, Reverse proxy (Caddy) 
+- Production: Docker (containers), VPS, Reverse proxy (Caddy), Vercel 
 
 My finished projects are - [draw-code](https://github.com/ramarthyasc/draw-code) & [superflow](https://github.com/ramarthyasc/superflow)
 
