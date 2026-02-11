@@ -22,3 +22,5 @@ My finished projects are - [draw-code](https://github.com/ramarthyasc/draw-code)
 Fun facts:
 - builds things, trains strength
 - uses nvim btw :)
+
+Development process : [@ X](https://x.com/r_amarthya_sc)
